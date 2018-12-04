@@ -17,5 +17,5 @@
   ## :coffee: Java
 
   ### JavaSE 基础
-* [JavaSE 基础常见面试题](https://github.com/damienzhong/java-interview-guide)
+* [JavaSE 基础常见面试题](https://github.com/damienzhong/java-interview-guide/blob/master/Java/JavaSE/JavaSE%E5%9F%BA%E7%A1%80%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98.md)
   
