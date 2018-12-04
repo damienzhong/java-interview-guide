@@ -1,2 +1,3 @@
 # Java-Interview-Guide
-本项目是用于记录分享Java程序员常见的面试题，并提供对应的答案供大家参考。
+![image](https://raw.githubusercontent.com/damienzhong/java-interview-guide/master/img/logo/logo.jpg)
+
