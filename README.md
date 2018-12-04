@@ -12,11 +12,9 @@
 
 - [:coffee: Java](#coffee-java)
 
-  - [JavaSE 基础](#javaSE-基础)
+  - [JavaSE 基础](#javase-基础)
 
   ## :coffee: Java
-
-  
 
   ### JavaSE 基础
 
