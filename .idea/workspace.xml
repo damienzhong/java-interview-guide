@@ -117,7 +117,7 @@
       <updated>1543903573600</updated>
       <workItem from="1543903577041" duration="322000" />
       <workItem from="1543903927915" duration="3777000" />
-      <workItem from="1543911583831" duration="679000" />
+      <workItem from="1543911583831" duration="1291000" />
     </task>
     <task id="LOCAL-00001" summary="add logo">
       <created>1543905381332</created>
@@ -210,11 +210,18 @@
       <option name="project" value="LOCAL" />
       <updated>1543911821837</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="add javase">
+      <created>1543912270343</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1543912270343</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4778000" />
+    <option name="totallyTimeSpent" value="5390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -248,7 +255,8 @@
     <MESSAGE value="add logo" />
     <MESSAGE value="add qq群logo" />
     <MESSAGE value="add description" />
-    <option name="LAST_COMMIT_MESSAGE" value="add description" />
+    <MESSAGE value="add javase" />
+    <option name="LAST_COMMIT_MESSAGE" value="add javase" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
