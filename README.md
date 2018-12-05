@@ -17,11 +17,7 @@
 
   ## :book: 简历
   ### 个人简历
-<<<<<<< HEAD
   * [论程序员编辑简历的艺术]()
-=======
-  * [论程序员编辑简历的艺术](https://github.com/damienzhong/java-interview-guide)
->>>>>>> 17b0734e801239511d501ebfdcc4804f77ac3692
   ## :coffee: Java
 
   ### JavaSE 基础
