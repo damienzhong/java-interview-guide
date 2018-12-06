@@ -111,4 +111,5 @@ public | √ |√ |√ |√
 protected| √ |√ |√ |×
 default| √ |√ |× |×
 private| √ |× |× |×
+
 不写时默认为default。
