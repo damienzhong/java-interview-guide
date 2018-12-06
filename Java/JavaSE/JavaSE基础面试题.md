@@ -55,6 +55,8 @@ JVM： 当我们运行一个程序时，JVM 负责将字节码转换为特定机
 
 **区别与联系**：
 
-JDK 用于开发，JRE 用于运行java程序 ；
-JDK 和 JRE 中都包含 JVM ；
-JVM 是 java 编程语言的核心并且具有平台独立性。
+- JDK 用于开发，JRE 用于运行java程序 ；
+- JDK 和 JRE 中都包含 JVM ；
+- JVM 是 java 编程语言的核心并且具有平台独立性。
+## 7.switch语句能否作用在byte上，能否作用在long上，能否作用在String上?
+在switch（expr1）中，expr1只能是一个整数表达式或者枚举常量（更大字体），整数表达式可以是int基本类型或Integer包装类型，由于，byte,short,char都可以隐含转换为int，所以，这些类型以及这些类型的包装类型也是可以的。显然，long和String类型都不符合switch的语法规定，并且不能被隐式转换成int类型，所以，它们不能作用于swtich语句中,但是从**Java7开始，exper还可以是String类型**。
