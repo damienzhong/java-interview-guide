@@ -10,14 +10,14 @@
 
 ## 目录
 - [:book: 简历](#book-简历)
-  - [论程序员编辑简历的艺术](#book-简历)
+  - [程序员的简历生存之道](#book-简历)
 - [:coffee: Java](#coffee-java)
 
   - [JavaSE 基础](#javase-基础)
 
   ## :book: 简历
   ### 个人简历
-  * [论程序员编辑简历的艺术](./resume/程序员的简历艺术.md)
+  * [程序员的简历生存之道](./resume/程序员的简历生存之道.md)
   ## :coffee: Java
 
   ### JavaSE 基础
