@@ -11,14 +11,9 @@
 ## 目录
 - [:book: 简历](#book-简历)
   - [程序员的简历生存之道](#book-简历)
-- [:coffee: Java](#coffee-java)
-
-  - [JavaSE](#javase)
-
+- [:coffee: JavaSE](#coffee-java)
   ## :book: 简历
   ### 个人简历
   * [程序员的简历生存之道](./resume/程序员的简历生存之道.md)
-  ## :coffee: Java
+  ## :coffee: JavaSE
 
-  ### JavaSE
-* [JavaSE 基础面试题](https://github.com/damienzhong/java-interview-guide/blob/master/Java/JavaSE/JavaSE%E5%9F%BA%E7%A1%80%E9%9D%A2%E8%AF%95%E9%A2%98.md)
