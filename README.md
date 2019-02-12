@@ -16,7 +16,7 @@
   - [面向对象](#coffee-JavaSE)
   - [常用类](#coffee-JavaSE)
   - [集合](#coffee-JavaSE)
-  - [流](#coffee-JavaSE)
+  - [IO流](#coffee-JavaSE)
   - [多线程](#coffee-JavaSE)
   - [网络编程](#coffee-JavaSE)
   - [反射](#coffee-JavaSE)
@@ -25,12 +25,11 @@
   * [程序员的简历生存之道](./resume/程序员的简历生存之道.md)
   ## :coffee: JavaSE
   ### 基本语法
+  * [Java基本语法面试题合集](./javase/基本语法面试题.md)
   ### 面向对象
   ### 常用类
   ### 集合
-  ### 流
-  #### IO
-  #### NIO
+  ### IO流
   ### 多线程
   ### 网络编程
   ### 反射
