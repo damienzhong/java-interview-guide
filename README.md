@@ -12,9 +12,26 @@
 - [:book: 简历](#book-简历)
   - [个人简历](#book-简历)
 - [:coffee: JavaSE](#coffee-java)
+  - [基本语法](#coffee-JavaSE)
+  - [面向对象](#coffee-JavaSE)
+  - [常用类](#coffee-JavaSE)
   - [集合](#coffee-JavaSE)
+  - [流](#coffee-JavaSE)
+  - [多线程](#coffee-JavaSE)
+  - [网络编程](#coffee-JavaSE)
+  - [反射](#coffee-JavaSE)
   ## :book: 简历
   ### 个人简历
   * [程序员的简历生存之道](./resume/程序员的简历生存之道.md)
   ## :coffee: JavaSE
+  ### 基本语法
+  ### 面向对象
+  ### 常用类
   ### 集合
+  ### 流
+  #### IO
+  #### NIO
+  ### 多线程
+  ### 网络编程
+  ### 反射
+  
