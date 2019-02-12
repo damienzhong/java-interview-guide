@@ -10,8 +10,9 @@
 
 ## 目录
 - [:book: 简历](#book-简历)
-  - [程序员的简历生存之道](#book-简历)
+  - [个人简历](#book-简历)
 - [:coffee: JavaSE](#coffee-java)
+  - [集合](#coffee-JavaSE)
   ## :book: 简历
   ### 个人简历
   * [程序员的简历生存之道](./resume/程序员的简历生存之道.md)
