@@ -52,6 +52,6 @@
   ## :spider: 计算机网络
   * [计算机网络面试专题](./mq/计算机网络面试题.md)
   ## :apple: 数据库
-  * [数据库面试专题](./mq/数据库面试题.md)
+  * [数据库面试专题](./database/数据库面试题.md)
   ## :banana: NoSQL
   * [NoSQL面试专题](./nosql/NoSQL面试题.md)
