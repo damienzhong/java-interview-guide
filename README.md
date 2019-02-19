@@ -24,7 +24,7 @@
 - [:rabbit: 消息中间件](#rabbit-消息中间件)
 - [:spider: 计算机网络](#spider-计算机网络)
 - [:apple: 数据库](#apple-数据库)
-- [:s: NoSQL](#s-NoSQL)
+- [:banana: NoSQL](#s-NoSQL)
   ## :book: 简历
   ### 个人简历
   * [程序员的简历生存之道](./resume/程序员的简历生存之道.md)
@@ -53,5 +53,5 @@
   * [计算机网络面试专题](./mq/计算机网络面试题.md)
   ## :apple: 数据库
   * [数据库面试专题](./mq/数据库面试题.md)
-  ## :s: 数据库
+  ## :banana: NoSQL
   * [NoSQL面试专题](./nosql/NoSQL面试题.md)
