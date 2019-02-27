@@ -26,7 +26,6 @@
 - [:apple: 数据库](#apple-数据库)
 - [:banana: NoSQL](#banana-NoSQL)
 - [:pig: 分布式](#pig-分布式)
-  - [微服务](#pig-微服务)
 - [:cow: 常用框架](#cow-常用框架)
   ## :book: 简历
   ### 个人简历
@@ -60,6 +59,6 @@
   * [NoSQL面试专题](./nosql/NoSQL面试题.md)
   ## :pig: 分布式
   ### 微服务
-  * [微服务面试专题](./distributed/微服务面试题.md)
+  * [分布式面试专题](./distributed/分布式面试题.md)
   ## :cow: 常用框架
   * [常用框架面试专题](./framework/常用框架面试题.md)
